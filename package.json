@@ -1,0 +1,16 @@
+{
+  "name": "bot-fraga",
+  "version": "1.0.5",
+  "description": "Este es el BOT Oficial del señor Manuel Fraga Iribarne. ¡Arriba España!",
+  "main": "index.js",
+  "scripts": {
+    "test": "+test"
+  },
+  "author": "Paquito86",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "ytdl-core": "^3.2.2"
+  }
+}
